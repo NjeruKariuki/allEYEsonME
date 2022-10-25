@@ -41,8 +41,8 @@
 
 .eyefg {
     position: absolute;
-    top: 70px;
-    left: -10px;
+    top: 50px;
+    left: 0px;
 }
 .stack-top{
     z-index: 9;
